@@ -1,6 +1,6 @@
 # Social Media Platform
 
-A social media platform inspired by Xiaohongshu, built with Vue.js and Node.js.
+A social media platform inspired by REDnote, built with Vue.js and Node.js.
 
 ## Features
 - User authentication
